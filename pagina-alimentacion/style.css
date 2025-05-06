@@ -1,0 +1,252 @@
+body
+{
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #000010;
+    font-family: monospace;
+}
+
+nav, footer
+{
+    width: 100%;
+    height: auto;
+    padding: 12px;
+    font-size: 22px;
+    background-color: transparent;
+    box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+    text-align: left;
+}
+
+
+
+.h2_bienvenida
+{
+    font-size: 35px;
+    color: #284a27;
+    text-align: center;
+
+}
+.contennt_inicio
+{
+    padding: 5px;
+    box-shadow: 0,0 10px, 0 #000010;
+    background: linear-gradient(to bottom right, #284a27, #1cc616 40% );
+    border-radius: 25px;
+    width: auto;
+    margin: auto;
+    margin: 40px;
+}
+
+.p-bienvenida
+{
+    color: #284a27;
+    margin: auto;
+    text-align: center;
+}
+
+p
+{
+    width: auto;
+    font-size: 18px;
+    padding: 10px;
+    max-width: 450px;
+}
+
+
+
+
+
+
+h1
+{    
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: #284a27;
+    font-style: bold;
+}
+
+
+footer
+{
+    background-color: rgb(46, 45, 45);
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    padding: 25px;
+
+}
+
+a
+{
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(28, 198, 22);
+}
+
+a:hover
+{
+    border-left: 1px solid #1cc616;
+}
+
+div
+{
+    margin: 40px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+.significado_saludable
+{
+    border-top: 10px,solid,black;
+    
+}
+
+article
+{
+    text-align: center;
+}
+
+
+.subittulo
+{
+    font-size: 25px;
+    padding: 20px;
+    border-top: 1px,solid,green;
+    margin: 10px;
+    text-align: left;
+    max-width: 410px;
+}
+.significado-content
+{
+padding: 10px;
+margin: 20px;
+}
+
+
+
+.significado-content
+{
+    text-align: center;
+    margin: 20px;
+    margin: auto;
+    border-left: px, solid, black;
+}
+
+.titulo_significado-saludable
+{
+    font-size: 25px;
+    color: #2aa425;
+    font-size: 35px;
+}
+
+.content-titulo-alimentos
+{
+    margin: 20px;
+}
+
+.h2-grupos-alimentos
+{
+    font-size: 35px;
+    text-align: center;
+    color: #2aa425;
+    margin: 20px;
+    margin: auto;
+}
+
+.p-tipos-alimentos
+{
+    margin: 10px;
+    max-width: 550px;
+    margin: auto;
+    text-align: center;
+}
+
+ul
+{
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    text-align: left;
+    margin: 20px;
+}
+
+li
+{
+    max-width: 450px;
+    height: auto;
+    margin: 20px;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: #3D7041;
+    font-size: 20px;
+}
+
+h3
+{
+    max-width: 100%;
+    font-size: 20px;
+    color: #1cc616;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+img
+{
+    margin: 20px;
+}
+
+iframe
+{
+    margin: 30px;
+}
+
+.video
+{
+    text-align: center;
+}
+
+
+
+
+
+.content_alimento
+{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+
+
+.content-t-alimento
+{
+    color: #000000;
+    flex: 1;
+    background-color: #f4f4f4;
+    width: 350px;
+    height: auto;
+    margin: 30px;
+    box-shadow: 0 0 10px 0 rgb(0, 0, 0);    
+}
+
+
+.content-t-alimento:hover
+{
+    background-color: #3D7041;
+    color: #ffffff;
+    transition: 0.5s;
+}
